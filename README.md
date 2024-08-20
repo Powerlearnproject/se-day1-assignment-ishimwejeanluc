@@ -14,22 +14,16 @@ Milestones include the development of programming languages (e.g., Fortran, C), 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1.Requirement Gathering and Analysis:
-
 Understanding what the users need and defining the system requirements.
 2.Design:
-
 Creating the architecture and design for the software, including UI/UX, database, and system architecture.
 3.Implementation :
-
 Writing the code that will implement the design and fulfill the requirements.
 4.Testing:
-
 Ensuring that the software works as intended and is free of defects.
 5.Deployment:
-
 Releasing the software to the end-users or clients.
 6.Maintenance:
-
 Continuously updating and improving the software based on user feedback and new requirements.
 
 
